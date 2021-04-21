@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hello!
 
 - :computer: Currently working at Yelm Media - https://yelm.io/ as a android developer.
 
