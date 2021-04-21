@@ -8,7 +8,7 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKrayVR&count_private=true&theme=dracula&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexKrayVR&count_private=false&theme=dracula&show_icons=true)
 
 ### Languages and Tools:
 
