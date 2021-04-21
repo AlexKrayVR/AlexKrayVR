@@ -4,8 +4,7 @@
 
 ### 
 
-![](https://github-readme-stats.vercel.app/api?username=AlexKrayVR&count_private=true&hide=contribs,stars&theme=dracula&show_icons=true)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKrayVR&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkrayvr&count_private=true&theme=dracula&show_icons=true)
@@ -22,4 +21,4 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Kray/3dbb8271-30bf-4ab6-a4de-f3b9c4935570.png" width="200" height="150"/></a>
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKrayVR)](https://github.com/anuraghazra/github-readme-stats)
+
