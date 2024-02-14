@@ -1,6 +1,4 @@
-### Hello!
-
-- :computer: 
+### Hello! :computer: 
 <!-- 
 ### 
 
